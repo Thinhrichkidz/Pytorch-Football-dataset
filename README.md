@@ -17,3 +17,16 @@ The Football Dataset Processing project aims to assist in the handling and analy
    ```bash
    git clone https://github.com/your-username/football-dataset-processing.git
    cd football-dataset-processing
+
+2. Customize the dataset paths and filenames in the code to match your dataset's structure.
+
+3. Install the required dependencies if you haven't already
+
+   ```bash
+   pip install pillow
+
+4. Run the dataset processing script
+
+    ```bash
+   python your_name_file.py
+
